@@ -1,0 +1,8 @@
+tmp/
+*.old
+*.backup
+img/Thumbs.db
+Site For Import/.DS_Store
+img/.DS_Store
+.DS_Store
+
